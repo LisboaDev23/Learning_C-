@@ -1,0 +1,15 @@
+C:\Users\ADM\GABRIEL\ESTUDOS-EXTERNOS\BACK-END\C#\HelloWord\bin\Debug\net8.0\HelloWord.exe
+C:\Users\ADM\GABRIEL\ESTUDOS-EXTERNOS\BACK-END\C#\HelloWord\bin\Debug\net8.0\HelloWord.deps.json
+C:\Users\ADM\GABRIEL\ESTUDOS-EXTERNOS\BACK-END\C#\HelloWord\bin\Debug\net8.0\HelloWord.runtimeconfig.json
+C:\Users\ADM\GABRIEL\ESTUDOS-EXTERNOS\BACK-END\C#\HelloWord\bin\Debug\net8.0\HelloWord.dll
+C:\Users\ADM\GABRIEL\ESTUDOS-EXTERNOS\BACK-END\C#\HelloWord\bin\Debug\net8.0\HelloWord.pdb
+C:\Users\ADM\GABRIEL\ESTUDOS-EXTERNOS\BACK-END\C#\HelloWord\obj\Debug\net8.0\HelloWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\GABRIEL\ESTUDOS-EXTERNOS\BACK-END\C#\HelloWord\obj\Debug\net8.0\HelloWord.AssemblyInfoInputs.cache
+C:\Users\ADM\GABRIEL\ESTUDOS-EXTERNOS\BACK-END\C#\HelloWord\obj\Debug\net8.0\HelloWord.AssemblyInfo.cs
+C:\Users\ADM\GABRIEL\ESTUDOS-EXTERNOS\BACK-END\C#\HelloWord\obj\Debug\net8.0\HelloWord.csproj.CoreCompileInputs.cache
+C:\Users\ADM\GABRIEL\ESTUDOS-EXTERNOS\BACK-END\C#\HelloWord\obj\Debug\net8.0\HelloWord.sourcelink.json
+C:\Users\ADM\GABRIEL\ESTUDOS-EXTERNOS\BACK-END\C#\HelloWord\obj\Debug\net8.0\HelloWord.dll
+C:\Users\ADM\GABRIEL\ESTUDOS-EXTERNOS\BACK-END\C#\HelloWord\obj\Debug\net8.0\refint\HelloWord.dll
+C:\Users\ADM\GABRIEL\ESTUDOS-EXTERNOS\BACK-END\C#\HelloWord\obj\Debug\net8.0\HelloWord.pdb
+C:\Users\ADM\GABRIEL\ESTUDOS-EXTERNOS\BACK-END\C#\HelloWord\obj\Debug\net8.0\HelloWord.genruntimeconfig.cache
+C:\Users\ADM\GABRIEL\ESTUDOS-EXTERNOS\BACK-END\C#\HelloWord\obj\Debug\net8.0\ref\HelloWord.dll
