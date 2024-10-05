@@ -1,0 +1,15 @@
+C:\Users\ADM\GABRIEL\ESTUDOS-EXTERNOS\BACK-END\C#\SecondsSteps\SecondSteps\bin\Debug\net8.0\SecondSteps.exe
+C:\Users\ADM\GABRIEL\ESTUDOS-EXTERNOS\BACK-END\C#\SecondsSteps\SecondSteps\bin\Debug\net8.0\SecondSteps.deps.json
+C:\Users\ADM\GABRIEL\ESTUDOS-EXTERNOS\BACK-END\C#\SecondsSteps\SecondSteps\bin\Debug\net8.0\SecondSteps.runtimeconfig.json
+C:\Users\ADM\GABRIEL\ESTUDOS-EXTERNOS\BACK-END\C#\SecondsSteps\SecondSteps\bin\Debug\net8.0\SecondSteps.dll
+C:\Users\ADM\GABRIEL\ESTUDOS-EXTERNOS\BACK-END\C#\SecondsSteps\SecondSteps\bin\Debug\net8.0\SecondSteps.pdb
+C:\Users\ADM\GABRIEL\ESTUDOS-EXTERNOS\BACK-END\C#\SecondsSteps\SecondSteps\obj\Debug\net8.0\SecondSteps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\GABRIEL\ESTUDOS-EXTERNOS\BACK-END\C#\SecondsSteps\SecondSteps\obj\Debug\net8.0\SecondSteps.AssemblyInfoInputs.cache
+C:\Users\ADM\GABRIEL\ESTUDOS-EXTERNOS\BACK-END\C#\SecondsSteps\SecondSteps\obj\Debug\net8.0\SecondSteps.AssemblyInfo.cs
+C:\Users\ADM\GABRIEL\ESTUDOS-EXTERNOS\BACK-END\C#\SecondsSteps\SecondSteps\obj\Debug\net8.0\SecondSteps.csproj.CoreCompileInputs.cache
+C:\Users\ADM\GABRIEL\ESTUDOS-EXTERNOS\BACK-END\C#\SecondsSteps\SecondSteps\obj\Debug\net8.0\SecondSteps.sourcelink.json
+C:\Users\ADM\GABRIEL\ESTUDOS-EXTERNOS\BACK-END\C#\SecondsSteps\SecondSteps\obj\Debug\net8.0\SecondSteps.dll
+C:\Users\ADM\GABRIEL\ESTUDOS-EXTERNOS\BACK-END\C#\SecondsSteps\SecondSteps\obj\Debug\net8.0\refint\SecondSteps.dll
+C:\Users\ADM\GABRIEL\ESTUDOS-EXTERNOS\BACK-END\C#\SecondsSteps\SecondSteps\obj\Debug\net8.0\SecondSteps.pdb
+C:\Users\ADM\GABRIEL\ESTUDOS-EXTERNOS\BACK-END\C#\SecondsSteps\SecondSteps\obj\Debug\net8.0\SecondSteps.genruntimeconfig.cache
+C:\Users\ADM\GABRIEL\ESTUDOS-EXTERNOS\BACK-END\C#\SecondsSteps\SecondSteps\obj\Debug\net8.0\ref\SecondSteps.dll
