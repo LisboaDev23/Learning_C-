@@ -1,11 +1,16 @@
 ﻿class Program {
     public static void Main (string[] args){
-        Multiply();
-        CustomSaudation("Gabriel");
+        //Multiply();
+        //CustomSaudation("Gabriel");
 
         Pessoa pessoa = new Pessoa("Gabriel", 21, "Desenvolvedor FullStack");
         pessoa.Falar();
         pessoa.ExibirDados();
+        pessoa.Salario = 2500.90;
+        pessoa.ReceberSalario();
+
+        Pessoa gerente = new Gerente("Lisboa", 21, "Software Engineer", 4500.50, 1000.05);
+        gerente.Falar();
     }
 
     static int Multiply (){
