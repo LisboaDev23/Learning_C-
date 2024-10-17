@@ -4,10 +4,14 @@
         {
             try
             {
+                DepositarSalario(100);
+                SacarDinheiro(500, 800);
                 int number1 = int.Parse(Console.ReadLine());
                 int number2 = int.Parse(Console.ReadLine());
                 Console.WriteLine(Dividir(number1, number2));
-                DepositarSalario(-50);
+            }
+            catch (SaldoInsuficienteException e) {
+                Console.WriteLine(e.Message);
             }
             catch (DivideByZeroException e)
             {
@@ -33,6 +37,12 @@
             }
             Console.WriteLine("Salário depositado no valor de " + deposito);
             return deposito;
+        }
+        public static int SacarDinheiro (int valorConta, int valor) {
+            if(valor > valorConta){
+                throw new SaldoInsuficienteException("Saldo insuficiente, valor a sacar é maior do que o valor em conta!");
+            }
+            return valorConta - valor;
         }
         public static int Dividir(int number1, int number2)
         {
