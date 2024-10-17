@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThirdSteps")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+661cbfca21adeb728224ebe943b05254075f58cb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0b0b8e1159ac6dc6ad81300252edf3d52663e0d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThirdSteps")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThirdSteps")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
