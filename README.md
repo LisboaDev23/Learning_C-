@@ -17,3 +17,5 @@ SECONDS STEPS -> LEARNING C#
 THIRD STEPS -> LEARNING C#
 - Tratamento de Exceções
 - Bloco Try-Catch-Finally
+- Criação de exceções personalizadas (extends --> : Exception)
+- Biblioteca e compreensão das diferentes exceptions em C#
