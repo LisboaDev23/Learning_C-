@@ -13,3 +13,7 @@ SECONDS STEPS -> LEARNING C#
 - Classes
 - Abstração, Encapsulamento, Herança e Polimorfismo.
 - Métodos construtores
+
+THIRD STEPS -> LEARNING C#
+- Tratamento de Exceções
+- Bloco Try-Catch-Finally
