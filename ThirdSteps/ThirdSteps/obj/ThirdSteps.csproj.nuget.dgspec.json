@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabri\\LearningC#\\Learning_CSharp\\SecondsSteps\\SecondSteps\\SecondSteps.csproj": {}
+    "C:\\Users\\gabri\\LearningC#\\Learning_CSharp\\ThirdSteps\\ThirdSteps\\ThirdSteps.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabri\\LearningC#\\Learning_CSharp\\SecondsSteps\\SecondSteps\\SecondSteps.csproj": {
+    "C:\\Users\\gabri\\LearningC#\\Learning_CSharp\\ThirdSteps\\ThirdSteps\\ThirdSteps.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabri\\LearningC#\\Learning_CSharp\\SecondsSteps\\SecondSteps\\SecondSteps.csproj",
-        "projectName": "SecondSteps",
-        "projectPath": "C:\\Users\\gabri\\LearningC#\\Learning_CSharp\\SecondsSteps\\SecondSteps\\SecondSteps.csproj",
+        "projectUniqueName": "C:\\Users\\gabri\\LearningC#\\Learning_CSharp\\ThirdSteps\\ThirdSteps\\ThirdSteps.csproj",
+        "projectName": "ThirdSteps",
+        "projectPath": "C:\\Users\\gabri\\LearningC#\\Learning_CSharp\\ThirdSteps\\ThirdSteps\\ThirdSteps.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabri\\LearningC#\\Learning_CSharp\\SecondsSteps\\SecondSteps\\obj\\",
+        "outputPath": "C:\\Users\\gabri\\LearningC#\\Learning_CSharp\\ThirdSteps\\ThirdSteps\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+C:\Users\gabri\LearningC#\Learning_CSharp\ThirdSteps\ThirdSteps\bin\Debug\net8.0\ThirdSteps.exe
+C:\Users\gabri\LearningC#\Learning_CSharp\ThirdSteps\ThirdSteps\bin\Debug\net8.0\ThirdSteps.deps.json
+C:\Users\gabri\LearningC#\Learning_CSharp\ThirdSteps\ThirdSteps\bin\Debug\net8.0\ThirdSteps.runtimeconfig.json
+C:\Users\gabri\LearningC#\Learning_CSharp\ThirdSteps\ThirdSteps\bin\Debug\net8.0\ThirdSteps.dll
+C:\Users\gabri\LearningC#\Learning_CSharp\ThirdSteps\ThirdSteps\bin\Debug\net8.0\ThirdSteps.pdb
+C:\Users\gabri\LearningC#\Learning_CSharp\ThirdSteps\ThirdSteps\obj\Debug\net8.0\ThirdSteps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\LearningC#\Learning_CSharp\ThirdSteps\ThirdSteps\obj\Debug\net8.0\ThirdSteps.AssemblyInfoInputs.cache
+C:\Users\gabri\LearningC#\Learning_CSharp\ThirdSteps\ThirdSteps\obj\Debug\net8.0\ThirdSteps.AssemblyInfo.cs
+C:\Users\gabri\LearningC#\Learning_CSharp\ThirdSteps\ThirdSteps\obj\Debug\net8.0\ThirdSteps.csproj.CoreCompileInputs.cache
+C:\Users\gabri\LearningC#\Learning_CSharp\ThirdSteps\ThirdSteps\obj\Debug\net8.0\ThirdSteps.sourcelink.json
+C:\Users\gabri\LearningC#\Learning_CSharp\ThirdSteps\ThirdSteps\obj\Debug\net8.0\ThirdSteps.dll
+C:\Users\gabri\LearningC#\Learning_CSharp\ThirdSteps\ThirdSteps\obj\Debug\net8.0\refint\ThirdSteps.dll
+C:\Users\gabri\LearningC#\Learning_CSharp\ThirdSteps\ThirdSteps\obj\Debug\net8.0\ThirdSteps.pdb
+C:\Users\gabri\LearningC#\Learning_CSharp\ThirdSteps\ThirdSteps\obj\Debug\net8.0\ThirdSteps.genruntimeconfig.cache
+C:\Users\gabri\LearningC#\Learning_CSharp\ThirdSteps\ThirdSteps\obj\Debug\net8.0\ref\ThirdSteps.dll
